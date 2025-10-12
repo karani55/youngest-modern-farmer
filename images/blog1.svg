@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="0" y="0" width="800" height="180" fill="#e8f5e9"/>
+<text x="20" y="60" font-size="28" font-family="Poppins, Arial" fill="#2e7d32">Sample Post 1 Title</text>
+<text x="20" y="120" font-size="16" font-family="Open Sans, Arial" fill="#2e7d32">A short description about the post: farming tips, safety, innovation.</text>
+</svg>
